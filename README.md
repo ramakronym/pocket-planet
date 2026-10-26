@@ -1,5 +1,5 @@
 # Introducing Pocket Planet: Tamagotchi in 30 seconds
-Here's my take on the popular simulated pet game, Tamagotchi, reimagined for single-session play. Try it here 🔗https://ramakronym.github.io/pocket-planet/journey.html
+Here's my take on the popular simulated pet game, Tamagotchi, reimagined for single-session play. Try it here 🔗https://ramakronym.github.io/pocket-planet/
 
 ## Why Tamagotchi
 Growing up as a single child, Tamagotchi was one of my favorite games to play as it was portable, addictive, while serving the role of a friend and a therapy animal all rolled up in one. I'd be excited to hear the device beep, indicating my attention was most needed to help my digital pet survive and thrive. And the best part was Tamagotchi was immortal - you could always restart the game with a fresh life!
