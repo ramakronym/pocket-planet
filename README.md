@@ -4,6 +4,9 @@ Here's my take on the popular simulated pet game, Tamagotchi, reimagined for sin
 ## Why Tamagotchi
 Growing up as a single child, Tamagotchi was one of my favorite games to play as it was portable, addictive, while serving the role of a friend and a therapy animal all rolled up in one. I'd be excited to hear the device beep, indicating my attention was most needed to help my digital pet survive and thrive. And the best part was Tamagotchi was immortal - you could always restart the game with a fresh life!
 
+<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/e38bff6f-befe-4b80-afe1-0baa5e5e7cd1" />
+
+
 ## The game, reimagined
 I started out exploring a thesis on how the best parts of Tamagotchi could be translated into a single-session game while still inflicting similar emotions of supervision, care and belonging. Try it here 🔗https://ramakronym.github.io/pocket-planet/journey.html
 
@@ -17,6 +20,8 @@ Scarcity plus time. Needs continuously fall at temperament-specific rates. Care 
 React or stay the course? Wishes appear at 6 and 18 seconds, with six-second response windows. A temporary discount from 12–18 seconds creates another spending decision.
 
 A transparent outcome. Care score rewards needs maintained over the whole round (65 points), wishes answered (20), and care variety (15). Players also receive an evolution and a downloadable keepsake. Random loadouts mean scores across different rounds are not a standardized skill comparison.
+
+<img width="514" height="757" alt="Screenshot 2026-10-25 at 8 38 40 PM" src="https://github.com/user-attachments/assets/d73fb887-8981-46dd-b00b-5ec6a64e3e53" />
 
 ## Building with an agentic tool
 I set the goal of adapting the Tamagotchi concept for short play sessions, shaped the initial requirements and visual direction, and approved the MVP. ChatGPT Work translated that direction into a static web game, implemented the interface and game rules, and prepared the hosted release.
